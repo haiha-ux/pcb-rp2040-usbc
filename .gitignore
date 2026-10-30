@@ -1,0 +1,10 @@
+__pycache__/
+*-backups/
+fp-info-cache
+*.lck
+*.kicad_prl
+reports/_*
+reports/freerouting.log
+reports/route.dsn
+reports/route.ses
+reports/rp2040_usbc.net
